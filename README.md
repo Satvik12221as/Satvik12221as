@@ -6,7 +6,7 @@ Passionate AI/ML and Backend developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sanu8800971634@gmail.com](mailto:sanu8800971634@gmail.com)
-* 🧠  I'm currently learning deep learning and fastapi
+* 🧠  I'm currently learning AWS
 * 👥  I'm looking to collaborate on machine learning and deep learning projects
 
 <p align="left">
