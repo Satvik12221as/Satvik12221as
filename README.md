@@ -5,7 +5,7 @@ AI/ML and Agentic AI Developer
 --------------------------------------
 
 * 🌍  I'm based in Chennai
-* ✉️  You can contact me at [sanu8800971634@gmail.com](mailto:sanu8800971634@gmail.com)
+* ✉️  You can contact me at [ss7225@srmist.edu.in](mailto:ss7225@srmist.edu.in)
 * 🧠  Passionate about Agentic AI and LLM Systems
 * 👥  I'm looking to collaborate on GenAI and Agentic AI Projects
 
