@@ -19,8 +19,6 @@ AI/ML and Agentic AI Developer
 <a href="https://www.github.com/satvik12221as" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/satvik12221as?logo=github&style=for-the-badge&color=0891b2&labelColor=581c87" /></a>
 
-<a href="http://www.github.com/satvik12221as"><img src="https://github-readme-stats.vercel.app/api?username=satvik12221as&show_icons=true&hide=prs,&count_private=true&title_color=facc15&text_color=0f172a&icon_color=0891b2&bg_color=581c87&hide_border=true&show_icons=true" alt="satvik12221as's GitHub stats" /></a>
-
 <a href="http://www.github.com/satvik12221as"><img src="https://github-readme-streak-stats.herokuapp.com/?user=satvik12221as&stroke=0f172a&background=581c87&ring=facc15&fire=facc15&currStreakNum=0f172a&currStreakLabel=facc15&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
 
-<a href="https://github.com/satvik12221as" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satvik12221as&langs_count=10&title_color=facc15&text_color=0f172a&icon_color=0891b2&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
