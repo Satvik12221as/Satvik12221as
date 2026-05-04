@@ -1,24 +1,125 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My Name is Satvik Shankar Singh
-=============================================================================================================================================
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:2563EB,100:14B8A6&text=Satvik%20Shankar%20Singh&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=AI%2FML%20%7C%20Agentic%20AI%20%7C%20LLM%20Systems&descAlignY=58&descSize=18" alt="Satvik Shankar Singh profile banner" />
+</div>
 
-AI/ML and Agentic AI Developer
---------------------------------------
-
-* 🌍  I'm based in Chennai
-* ✉️  You can contact me at [ss7225@srmist.edu.in](mailto:ss7225@srmist.edu.in)
-* 🧠  Passionate about Agentic AI and LLM Systems
-* 👥  I'm looking to collaborate on GenAI and Agentic AI Projects
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a>
+<p align="center">
+  <a href="mailto:ss7225@srmist.edu.in"><img src="https://img.shields.io/badge/Email-ss7225%40srmist.edu.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/satvik1221"><img src="https://img.shields.io/badge/LinkedIn-Satvik%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.github.com/Satvik12221as"><img src="https://img.shields.io/github/followers/Satvik12221as?style=for-the-badge&logo=github&label=GitHub&color=181717" alt="GitHub followers" /></a>
 </p>
 
-### Socials
+<h3 align="center">
+  Building intelligent systems that reason, retrieve, automate, and ship.
+</h3>
 
-<p align="left"> <a href="https://www.github.com/satvik12221as" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/satvik1221" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/satvik12221as" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/satvik12221as?logo=github&style=for-the-badge&color=0891b2&labelColor=581c87" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=760&lines=Agentic+AI+Developer;LLM+Systems+Builder;AI%2FML+Engineer;FastAPI+%7C+Python+%7C+PyTorch+%7C+Databases" alt="Typing SVG" />
+</p>
 
-<a href="http://www.github.com/satvik12221as"><img src="https://github-readme-streak-stats.herokuapp.com/?user=satvik12221as&stroke=0f172a&background=581c87&ring=facc15&fire=facc15&currStreakNum=0f172a&currStreakLabel=facc15&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
+---
 
+## About Me
 
+I am **Satvik Shankar Singh**, an AI/ML and Agentic AI developer based in **Chennai, India**. I enjoy building practical LLM systems: agents, retrieval pipelines, automation workflows, API backends, and ML prototypes that move from idea to working product.
+
+- Currently focused on **Agentic AI, LLM applications, RAG systems, and AI automation**
+- Comfortable across **Python backends, ML frameworks, databases, and developer tooling**
+- Looking to collaborate on **GenAI products, autonomous agents, and applied AI research builds**
+- Reach me at **[ss7225@srmist.edu.in](mailto:ss7225@srmist.edu.in)**
+
+---
+
+## Engineering Focus
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Agentic AI</h3>
+      <p>Designing tool-using AI workflows, planning loops, multi-step reasoning systems, and automation agents.</p>
+    </td>
+    <td width="50%">
+      <h3>LLM Systems</h3>
+      <p>Building RAG pipelines, prompt workflows, structured outputs, evaluation flows, and API integrations.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Backend Engineering</h3>
+      <p>Creating clean Python APIs with FastAPI, Flask, Django, SQL databases, and production-minded architecture.</p>
+    </td>
+    <td width="50%">
+      <h3>Machine Learning</h3>
+      <p>Experimenting with PyTorch, TensorFlow, model training, data pipelines, and applied ML prototypes.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,fastapi,flask,django,pytorch,tensorflow,postgres,mysql,arduino&perline=7" alt="Tech stack icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Agents-0F172A?style=flat-square&logo=openai&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-2563EB?style=flat-square&logo=readthedocs&logoColor=white" alt="RAG Systems" />
+  <img src="https://img.shields.io/badge/LLM%20Apps-14B8A6?style=flat-square&logo=googlegemini&logoColor=white" alt="LLM Apps" />
+  <img src="https://img.shields.io/badge/API%20Design-111827?style=flat-square&logo=fastapi&logoColor=white" alt="API Design" />
+  <img src="https://img.shields.io/badge/Databases-334155?style=flat-square&logo=postgresql&logoColor=white" alt="Databases" />
+</p>
+
+---
+
+## Featured Work
+
+<p align="center">
+  <a href="https://github.com/Satvik12221as/Github-Agent-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satvik12221as&repo=Github-Agent-System&theme=tokyonight&hide_border=true" alt="Github Agent System repository card" />
+  </a>
+  <a href="https://github.com/Satvik12221as/Blog-Writing-AI-Agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satvik12221as&repo=Blog-Writing-AI-Agent&theme=tokyonight&hide_border=true" alt="Blog Writing AI Agent repository card" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Satvik12221as/hive">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satvik12221as&repo=hive&theme=tokyonight&hide_border=true" alt="Hive repository card" />
+  </a>
+  <a href="https://github.com/Satvik12221as/medibridge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satvik12221as&repo=medibridge&theme=tokyonight&hide_border=true" alt="Medibridge repository card" />
+  </a>
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Satvik12221as&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Satvik's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satvik12221as&layout=compact&theme=tokyonight&hide_border=true" alt="Satvik's top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Satvik12221as&theme=tokyonight&hide_border=true" alt="Satvik's GitHub streak" />
+</p>
+
+---
+
+## What I Am Open To
+
+- Building **agentic AI systems** for real-world workflows
+- Collaborating on **GenAI apps, RAG products, and LLM tooling**
+- Working on **AI-backed APIs, automation systems, and research prototypes**
+- Contributing to projects where **clean engineering meets intelligent behavior**
+
+---
+
+<p align="center">
+  <a href="mailto:ss7225@srmist.edu.in"><b>Let us build something intelligent.</b></a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14B8A6,55:2563EB,100:0F172A" alt="Footer wave" />
+</div>
