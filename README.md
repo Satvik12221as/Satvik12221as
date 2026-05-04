@@ -11,10 +11,18 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ss7225@srmist.edu.in">Email</a> |
-  <a href="mailto:sanu8800971634@gmail.com">Alt Email</a> |
-  <a href="https://www.linkedin.com/in/satvik1221">LinkedIn</a> |
-  <a href="https://github.com/Satvik12221as">GitHub</a>
+  <a href="mailto:ss7225@srmist.edu.in">
+    <img src="https://img.shields.io/badge/Email-ss7225%40srmist.edu.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="mailto:sanu8800971634@gmail.com">
+    <img src="https://img.shields.io/badge/Alt%20Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Alt Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/satvik1221">
+    <img src="https://img.shields.io/badge/LinkedIn-satvik1221-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Satvik12221as">
+    <img src="https://img.shields.io/badge/GitHub-Satvik12221as-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <h3 align="center">
