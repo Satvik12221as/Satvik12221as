@@ -1,4 +1,8 @@
-<h1 align="center">Satvik Shankar Singh</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=1000&height=80&lines=Satvik+Shankar+Singh;Agentic+AI+%26+LLM+Engineer;I+Build+Autonomous+AI+Systems" alt="Satvik Shankar Singh animated name" width="100%" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -120,6 +124,28 @@ I am an **Agentic AI and LLM engineer** based in **Chennai, India**, currently p
 ---
 
 ## GitHub Analytics
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=700&color=A78BFA&center=true&vCenter=true&width=900&lines=Live+engineering+signal;Agentic+AI+%7C+RAG+%7C+LLM+Systems;Validated+agent+pipeline:+58+passing+tests;Open-source+contributor:+Aden+Hive" alt="Animated GitHub analytics summary" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satvik12221as&theme=tokyonight" alt="Satvik's GitHub profile summary" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satvik12221as&theme=tokyonight" alt="Satvik's repositories by language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Satvik12221as&theme=tokyonight" alt="Satvik's GitHub stats summary" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Satvik12221as&theme=tokyonight&utcOffset=5.5" alt="Satvik's productive time stats" width="32%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Satvik12221as&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Satvik's GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satvik12221as&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Satvik's contribution activity graph" width="100%" />
+</p>
 
 <table align="center">
   <tr>
