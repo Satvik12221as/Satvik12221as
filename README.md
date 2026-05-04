@@ -1,5 +1,6 @@
-<h1 align="center">Satvik Shankar Singh</h1>
-<h3 align="center">Agentic AI &amp; LLM Engineer</h3>
+<p align="center">
+  <img src="assets/hero-agentic-ai.svg" alt="Satvik Shankar Singh - Agentic AI and LLM Engineer" width="100%" />
+</p>
 
 <p align="center">
   <a href="mailto:ss7225@srmist.edu.in">Email</a> |
@@ -16,7 +17,9 @@
   <code>LangGraph</code> | <code>LangChain</code> | <code>Multi-Agent Orchestration</code> | <code>RAG Pipelines</code> | <code>Tool-Calling Agents</code> | <code>Python</code> | <code>FastAPI</code> | <code>Docker</code> | <code>AWS</code>
 </p>
 
----
+<p align="center">
+  <img src="assets/animated-divider.svg" alt="" width="100%" />
+</p>
 
 ## Profile
 
@@ -27,38 +30,33 @@ I am an **Agentic AI and LLM engineer** based in **Chennai, India**, currently p
 - Selected for a competitive **NIT Calicut internship opportunity** based on technical and problem-solving skills
 - Strongest areas: **LangGraph agents, RAG, multi-agent workflows, LLM APIs, Python backends, ML prototypes**
 
----
+<p align="center">
+  <img src="assets/animated-divider.svg" alt="" width="100%" />
+</p>
 
 ## Featured Work
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Satvik12221as/Github-Agent-System">Github Agent System</a></h3>
-      <p>Autonomous GitHub issue resolution system with five specialized agents: Code Reader, Planner, Code Writer, Test Writer, and PR Opener.</p>
-      <p><code>LangGraph</code> <code>LangChain</code> <code>Gemini API</code> <code>PyGithub</code> <code>Docker</code></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Satvik12221as/Blog-Writing-AI-Agent">Blog Writing AI Agent</a></h3>
-      <p>Autonomous multi-agent content pipeline with research, planning, section writing, reducer stages, and image generation.</p>
-      <p><code>LangGraph</code> <code>Groq</code> <code>Tavily</code> <code>Gemini API</code> <code>Streamlit</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Satvik12221as/hive">Hive</a></h3>
-      <p>Open-source contribution to a YC-backed autonomous agent development framework for self-evolving agent workflows.</p>
-      <p><code>Python</code> <code>Agent SDK</code> <code>WebSockets</code> <code>Open Source</code></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Satvik12221as/medibridge">Medibridge</a></h3>
-      <p>JavaScript product repository with application flow, UI foundations, and practical product engineering direction.</p>
-      <p><code>JavaScript</code> <code>Frontend</code> <code>Product Build</code> <code>GitHub</code></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Satvik12221as/Github-Agent-System">
+    <img src="assets/repo-github-agent-system.svg" alt="Github Agent System repository card" width="49%" />
+  </a>
+  <a href="https://github.com/Satvik12221as/Blog-Writing-AI-Agent">
+    <img src="assets/repo-blog-writing-ai-agent.svg" alt="Blog Writing AI Agent repository card" width="49%" />
+  </a>
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/Satvik12221as/hive">
+    <img src="assets/repo-hive.svg" alt="Hive repository card" width="49%" />
+  </a>
+  <a href="https://github.com/Satvik12221as/medibridge">
+    <img src="assets/repo-medibridge.svg" alt="Medibridge repository card" width="49%" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="assets/animated-divider.svg" alt="" width="100%" />
+</p>
 
 ## Engineering Depth
 
@@ -85,7 +83,9 @@ I am an **Agentic AI and LLM engineer** based in **Chennai, India**, currently p
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="assets/animated-divider.svg" alt="" width="100%" />
+</p>
 
 ## Skills
 
@@ -99,7 +99,13 @@ I am an **Agentic AI and LLM engineer** based in **Chennai, India**, currently p
   <code>Docker</code> <code>AWS</code> <code>Render</code> <code>Vercel</code> <code>Swagger</code>
 </p>
 
----
+<p align="center">
+  <img src="assets/skill-orbit.svg" alt="Animated skill orbit showing Satvik's AI engineering stack" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/animated-divider.svg" alt="" width="100%" />
+</p>
 
 ## Current Signal
 
@@ -108,9 +114,15 @@ I am an **Agentic AI and LLM engineer** based in **Chennai, India**, currently p
 - **Agentic GitHub System:** shipped a five-agent LangGraph workflow with code reading, planning, code writing, test writing, PR creation, Docker sandboxing, cost tracking, and 58 passing tests.
 - **Blog Writing Agent:** built a LangGraph pipeline with parallel research, planning, section writing, Tavily-powered routing, Gemini image generation, and Markdown output.
 
----
+<p align="center">
+  <img src="assets/animated-divider.svg" alt="" width="100%" />
+</p>
 
 ## GitHub Analytics
+
+<p align="center">
+  <img src="assets/profile-metrics.svg" alt="Profile metrics and engineering signals" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Satvik12221as?tab=repositories">Repositories</a> |
@@ -119,7 +131,9 @@ I am an **Agentic AI and LLM engineer** based in **Chennai, India**, currently p
   <a href="https://github.com/Satvik12221as?tab=overview">Contribution Activity</a>
 </p>
 
----
+<p align="center">
+  <img src="assets/animated-divider.svg" alt="" width="100%" />
+</p>
 
 ## Collaboration
 
