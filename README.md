@@ -138,7 +138,7 @@ flowchart LR
 
 ---
 
-# 🧬 `tech_loadout`
+# 🧬 `Tech_Loadout`
 
 ### 🤖 Agentic AI and LLM
 <p>
@@ -166,7 +166,7 @@ flowchart LR
 
 ---
 
-# 🏗️ `engineering_depth`
+# 🏗️ `Engineering_Depth`
 
 | 🧠 Agentic Systems | 🔎 RAG & LLM Pipelines |
 |:---|:---|
@@ -178,7 +178,7 @@ flowchart LR
 
 ---
 
-# 🛣️ `experience.log`
+# 🛣️ `Experience.log`
 
 ```text
 2026-06 → 2026-08   AI Research Intern        Sherlock.ai    deepfake / proxy-candidate detection datasets
@@ -189,7 +189,7 @@ flowchart LR
 
 ---
 
-# 📊 `developer_telemetry`
+# 📊 `Developer_Telemetry`
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Satvik12221as&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak"/>
@@ -215,7 +215,7 @@ flowchart LR
 
 ---
 
-# 🌐 `open_connection()`
+# 🌐 `Open_connection()`
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=600&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+an+agentic+product%3F;Need+RAG+or+LLM+eval+infra%3F;Got+a+wild+automation+idea%3F;Let's+ship+it." alt="Connect"/>
