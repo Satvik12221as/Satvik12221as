@@ -58,7 +58,7 @@ My focus is taking agentic systems from *research prototype* to *deployed produc
 
 ---
 
-# 🚀 `featured_projects`
+# 🚀 `Featured_Projects`
 
 ## 🤖 Multi-Agent GitHub Issue Resolver
 
