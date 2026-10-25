@@ -24,11 +24,7 @@
   <img src="https://img.shields.io/github/followers/Satvik12221as?style=for-the-badge&logo=github&color=A78BFA&labelColor=0F172A" alt="Followers"/>
 </p>
 
----
-
-# 🧠 `WhoAmI`
-
-```text
+🧠 WhoAmI
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
 ║   NAME        →  Satvik Shankar Singh                            ║
@@ -42,27 +38,17 @@
 ║   STATUS      →  ██████████████████████████░░░  SHIPPING AGENTS  ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
-```
+I build Autonomous LLM systems: agents that plan, retrieve, call tools, write code, run tests and open pull requests, with no hand-holding.
 
-I build **Autonomous LLM systems**: agents that plan, retrieve, call tools, write code, run tests and open pull requests, with no hand-holding.
+My focus is taking agentic systems from research prototype to deployed product, backed by a foundation in deep learning, NLP and computer vision.
+⚡ Currently.log
+🔭 Now	🧪 Researching	🤝 Open to
+Sherlock.ai: ML datasets & detection for deepfake / AI-assisted-cheating detection in remote interviews	SpazorLabs: quantum-enhanced ML, variational circuits, hybrid benchmarking	Agentic AI products, RAG & eval infra, LLM dev tools, hackathons, OSS
 
-My focus is taking agentic systems from *research prototype* to *deployed product*, backed by a foundation in deep learning, NLP and computer vision.
 
----
-
-# ⚡ `Currently.log`
-
-| 🔭 Now | 🧪 Researching | 🤝 Open to |
-|:---|:---|:---|
-| **Sherlock.ai**: ML datasets & detection for deepfake / AI-assisted-cheating detection in remote interviews | **SpazorLabs**: quantum-enhanced ML, variational circuits, hybrid benchmarking | Agentic AI products, RAG & eval infra, LLM dev tools, hackathons, OSS |
-
----
-
-# 🚀 `Featured_Projects`
-
-## 🤖 Multi-Agent GitHub Issue Resolver
-
-> Give it an issue. It reads the repo, plans a fix, writes code, writes tests, runs them in a sandbox and opens a PR.
+🚀 Featured_Projects
+🤖 Multi-Agent GitHub Issue Resolver
+Give it an issue. It reads the repo, plans a fix, writes code, writes tests, runs them in a sandbox and opens a PR.
 
 ```mermaid
 flowchart LR
@@ -75,24 +61,20 @@ flowchart LR
     F -- yes --> G[🚀 PR Opener]
     G --> H([✅ Pull Request])
 ```
-
-`LangGraph` `LangChain` `Gemini API` `PyGithub` `Docker`
-
-- Five specialized agents sharing a **TypedDict state graph** with conditional edge routing
-- **RAG-lite** codebase traversal + structured fix planning
-- Progressive retries (up to 3), **circuit breaker**, cost tracking
-- Generated code runs **only inside Docker**, never on the host
-- **58 passing tests**
-
+LangGraph LangChain Gemini API PyGithub Docker
+- Five specialized agents sharing a TypedDict state graph with conditional edge routing
+- RAG-lite codebase traversal + structured fix planning
+- Progressive retries (up to 3), circuit breaker, cost tracking
+- Generated code runs only inside Docker, never on the host
+- 58 passing tests
 <p align="center">
   <a href="https://github.com/Satvik12221as/Github-Agent-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satvik12221as&repo=Github-Agent-System&theme=tokyonight&hide_border=true" alt="Github Agent System"/>
   </a>
 </p>
 
-## ✍️ Autonomous Blog Writing Agent
-
-> Topic in, researched, illustrated Markdown blog out. Zero human input.
+✍️ Autonomous Blog Writing Agent
+Topic in, researched, illustrated Markdown blog out. Zero human input.
 
 ```mermaid
 flowchart LR
@@ -109,21 +91,18 @@ flowchart LR
     X --> I[🎨 Gemini Images]
     I --> M([📄 Markdown Blog])
 ```
-
-`LangGraph` `Groq` `Tavily` `Gemini API` `Streamlit`
-
-- **Adaptive router** picks closed-book / hybrid / open-book based on topic recency & complexity
-- **Fan-out / fan-in** parallel section writers, merged by a Reducer stage
+LangGraph Groq Tavily Gemini API Streamlit
+- Adaptive router picks closed-book / hybrid / open-book based on topic recency & complexity
+- Fan-out / fan-in parallel section writers, merged by a Reducer stage
 - Images generated and embedded contextually, deployed on Streamlit
-
+- Live Demo: Try the Autonomous Blog Writing Agent
 <p align="center">
   <a href="https://github.com/Satvik12221as/Blog-Writing-AI-Agent">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satvik12221as&repo=Blog-Writing-AI-Agent&theme=tokyonight&hide_border=true" alt="Blog Writing AI Agent"/>
   </a>
 </p>
 
-## 🌐 Open Source and Product
-
+🌐 Open Source and Product
 <p align="center">
   <a href="https://github.com/Satvik12221as/hive">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satvik12221as&repo=hive&theme=tokyonight&hide_border=true" alt="Hive"/>
@@ -133,14 +112,10 @@ flowchart LR
   </a>
 </p>
 
-- **Hive** (Aden): YC-backed autonomous agent framework with 9.5k+ stars and 183 contributors. I contribute to agent tooling, issue resolution and framework improvements across the Python multi-agent runtime and SDK-wrapped node ecosystem.
-- **Medibridge**: JavaScript product build focused on practical user flows and clean interface structure.
-
----
-
-# 🧬 `Tech_Loadout`
-
-### 🤖 Agentic AI and LLM
+- Hive (Aden): YC-backed autonomous agent framework with 9.5k+ stars and 183 contributors. I contribute to agent tooling, issue resolution and framework improvements across the Python multi-agent runtime and SDK-wrapped node ecosystem.
+- Medibridge: JavaScript product build focused on practical user flows and clean interface structure.
+🧬 Tech_Loadout
+🤖 Agentic AI and LLM
 <p>
   <img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge&logo=langchain&logoColor=22D3EE"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
@@ -152,45 +127,33 @@ flowchart LR
   <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge&logoColor=white"/>
 </p>
 
-### ⚔️ Languages, Backend and Cloud
+⚔️ Languages, Backend and Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,fastapi,flask,django,postgres,firebase,docker,aws,vercel,git&theme=dark" alt="Languages, backend, cloud"/>
 </p>
 
-### 🧪 ML, Vision and Data
+🧪 ML, Vision and Data
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,streamlit&theme=dark" alt="ML and vision"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
 </p>
 
----
+🏗️ Engineering_Depth
+🧠 Agentic Systems	🔎 RAG & LLM Pipelines
+Multi-agent orchestration, ReAct / MRKL reasoning, stateful workflow graphs, conditional routing, fan-out execution, agent memory, retry loops, circuit breakers	Semantic search, retrieval routing, context composition, prompt engineering, structured outputs, vector stores (Pinecone, ChromaDB)
 
-# 🏗️ `Engineering_Depth`
 
-| 🧠 Agentic Systems | 🔎 RAG & LLM Pipelines |
-|:---|:---|
-| Multi-agent orchestration, ReAct / MRKL reasoning, stateful workflow graphs, conditional routing, fan-out execution, agent memory, retry loops, circuit breakers | Semantic search, retrieval routing, context composition, prompt engineering, structured outputs, vector stores (Pinecone, ChromaDB) |
+⚙️ Backend & Delivery	👁️ ML, CV & Audio
+FastAPI, Flask, Django, REST, SQLAlchemy, PostgreSQL, Docker, AWS EC2/S3, Render, Vercel, Swagger	CNNs, Transformers, RNNs, OpenCV, segmentation, video/audio signal analysis, deepfake detection, model evaluation
 
-| ⚙️ Backend & Delivery | 👁️ ML, CV & Audio |
-|:---|:---|
-| FastAPI, Flask, Django, REST, SQLAlchemy, PostgreSQL, Docker, AWS EC2/S3, Render, Vercel, Swagger | CNNs, Transformers, RNNs, OpenCV, segmentation, video/audio signal analysis, deepfake detection, model evaluation |
 
----
-
-# 🛣️ `Experience.log`
-
-```text
+🛣️ Experience.log
 2026-06 → 2026-08   AI Research Intern        Sherlock.ai    deepfake / proxy-candidate detection datasets
 2026-03 → present   Open Source Contributor   Aden Hive      YC-backed autonomous agent framework
 2025-11 → 2026-01   Research & Tech Intern    SpazorLabs     quantum-classical AI research
 2025               Internship Selection       NIT Calicut    competitive national selection
-```
-
----
-
-# 📊 `Developer_Telemetry`
-
+📊 Developer_Telemetry
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Satvik12221as&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak"/>
 </p>
@@ -213,10 +176,7 @@ flowchart LR
   <img src="https://github.com/Satvik12221as/Satvik12221as/raw/output/github-snake-dark.svg" alt="Contribution snake"/>
 </p>
 
----
-
-# 🌐 `Open_connection()`
-
+🌐 Open_connection()
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=600&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+an+agentic+product%3F;Need+RAG+or+LLM+eval+infra%3F;Got+a+wild+automation+idea%3F;Let's+ship+it." alt="Connect"/>
 </p>
