@@ -118,7 +118,6 @@ flowchart LR
 
 <p align="center">
   <a href="https://github.com/Satvik12221as/Blog-Writing-AI-Agent">
-  <a hred="https://blog-writing-ai-agent-a9npfc9pwitql8ttkpq5j6.streamlit.app/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satvik12221as&repo=Blog-Writing-AI-Agent&theme=tokyonight&hide_border=true" alt="Blog Writing AI Agent"/>
   </a>
 </p>
