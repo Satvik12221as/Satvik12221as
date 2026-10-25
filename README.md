@@ -112,7 +112,7 @@ flowchart LR
 
 `LangGraph` `Groq` `Tavily` `Gemini API` `Streamlit`
 
-- - **Adaptive router** picks closed-book / hybrid / open-book based on topic recency & complexity
+- **Adaptive router** picks closed-book / hybrid / open-book based on topic recency & complexity
 - **Live Demo:** [Launch Blog Writing AI Agent](https://blog-writing-ai-agent-a9npfc9pwitql8ttkpq5j6.streamlit.app/)
 - **Fan-out / fan-in** parallel section writers, merged by a Reducer stage
 - Images generated and embedded contextually, deployed on Streamlit
