@@ -112,12 +112,13 @@ flowchart LR
 
 `LangGraph` `Groq` `Tavily` `Gemini API` `Streamlit`
 
-- **Adaptive router** picks closed-book / hybrid / open-book based on topic recency & complexity
+- **Adaptive router** picks closed-book / hybrid / open-book based on topic recency & complehttps://blog-writing-ai-agent-a9npfc9pwitql8ttkpq5j6.streamlit.app/xity
 - **Fan-out / fan-in** parallel section writers, merged by a Reducer stage
 - Images generated and embedded contextually, deployed on Streamlit
 
 <p align="center">
   <a href="https://github.com/Satvik12221as/Blog-Writing-AI-Agent">
+  <a hred="https://blog-writing-ai-agent-a9npfc9pwitql8ttkpq5j6.streamlit.app/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satvik12221as&repo=Blog-Writing-AI-Agent&theme=tokyonight&hide_border=true" alt="Blog Writing AI Agent"/>
   </a>
 </p>
