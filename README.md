@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=700&color=22D3EE&center=true&vCenter=true&width=950&lines=Agents+That+Plan+%E2%86%92+Retrieve+%E2%86%92+Code+%E2%86%92+Test+%E2%86%92+ship;LangGraph+%C3%97+RAG+%C3%97+Multi-Agent+Orchestration;58+passing+tests+in+my+GitHub+issue-resolving+agent;Open-source+contributor+%40+Aden+Hive+(YC-backed);Prototype+%E2%86%92+Production.+Always." alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=700&color=22D3EE&center=true&vCenter=true&width=950&lines=Agents+That+Plan+%E2%86%92+Retrieve+%E2%86%92+Code+%E2%86%92+Test+%E2%86%92+Ship;LangGraph+%C3%97+RAG+%C3%97+Multi-Agent+Orchestration;58+passing+tests+in+my+GitHub+issue-resolving+agent;Open-source+contributor+%40+Aden+Hive+(YC-backed);Prototype+%E2%86%92+Production.+Always." alt="Typing animation"/>
   </a>
 </p>
 
