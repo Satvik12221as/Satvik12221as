@@ -78,7 +78,7 @@ flowchart LR
 
 `LangGraph` `LangChain` `Gemini API` `PyGithub` `Docker`
 
-- Five specialized agents sharing a **TypedDict state graph** with conditional edge routing
+- Five specialized agents sharing a **TypedDict State Graph** with conditional edge routing
 - **RAG-lite** codebase traversal + structured fix planning
 - Progressive retries (up to 3), **circuit breaker**, cost tracking
 - Generated code runs **only inside Docker**, never on the host
