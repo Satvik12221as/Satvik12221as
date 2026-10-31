@@ -216,7 +216,7 @@ flowchart LR
 
 ---
 
-# 🌐 `Open_connection()`
+# 🌐 `Open_Connection()`
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=600&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+an+agentic+product%3F;Need+RAG+or+LLM+eval+infra%3F;Got+a+wild+automation+idea%3F;Let's+ship+it." alt="Connect"/>
