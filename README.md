@@ -171,7 +171,7 @@ flowchart LR
 
 | 🧠 Agentic Systems | 🔎 RAG & LLM Pipelines |
 |:---|:---|
-| Multi-agent orchestration, ReAct / MRKL reasoning, stateful workflow graphs, conditional routing, fan-out execution, agent memory, retry loops, circuit breakers | Semantic search, retrieval routing, context composition, prompt engineering, structured outputs, vector stores (Pinecone, ChromaDB) |
+| Multi-agent orchestration, ReAct / MRKL reasoning, stateful workflow graphs, conditional routing, fan-out execution, agent memory, retry loops, circuit breakers | Semantic search, retrieval routing, context composition, prompt engineering, structured outputs, Vctor stores (Pinecone, ChromaDB) |
 
 | ⚙️ Backend & Delivery | 👁️ ML, CV & Audio |
 |:---|:---|
