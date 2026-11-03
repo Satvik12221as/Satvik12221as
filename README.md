@@ -46,7 +46,7 @@
 
 I build **Autonomous LLM systems**: agents that plan, retrieve, call tools, write code, run tests and open pull requests, with no hand-holding.
 
-My focus is taking agentic systems from *research prototype* to *deployed product*, backed by a foundation in deep learning, NLP and computer vision.
+My focus is taking Agentic systems from *research prototype* to *deployed product*, backed by a foundation in deep learning, NLP and computer vision.
 
 ---
 
