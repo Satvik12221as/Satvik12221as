@@ -81,7 +81,7 @@ flowchart LR
 - Five specialized agents sharing a **TypedDict State Graph** with conditional edge routing
 - **RAG-lite** codebase traversal + structured fix planning
 - Progressive retries (up to 3), **circuit breaker**, cost tracking
-- Generated code runs **only inside Docker**, never on the host
+- Generated code runs **only inside Docker**, never on the host.
 - **58 passing tests**
 
 <p align="center">
