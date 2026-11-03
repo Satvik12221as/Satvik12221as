@@ -175,7 +175,7 @@ flowchart LR
 
 | ⚙️ Backend & Delivery | 👁️ ML, CV & Audio |
 |:---|:---|
-| FastAPI, Flask, Django, REST, SQLAlchemy, PostgreSQL, Docker, AWS EC2/S3, Render, Vercel, Swagger | CNNs, Transformers, RNNs, OpenCV, segmentation, video/audio signal analysis, deepfake detection, model evaluation |
+| FastAPI, Flask, Django, REST, SQLAlchemy, PostgreSQL, Docker, AWS EC2/S3, Render, Vercel, Swagger | CNNs, Transformers, RNNs, OpenCV, segmentation, video/audio signal analysis, deepfake detection, Model evaluation |
 
 ---
 
