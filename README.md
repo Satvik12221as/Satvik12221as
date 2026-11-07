@@ -223,7 +223,7 @@ flowchart LR
 </p>
 
 <p align="center">
-  <a href="mailto:ss7225@srmist.edu.in"><b>✉️ Build with me</b></a> ·
+  <a href="mailto:ss7225@srmist.edu.in"><b>✉️ Build with me.</b></a> ·
   <a href="https://www.linkedin.com/in/satvik1221"><b>🔗 LinkedIn</b></a> ·
   <a href="https://github.com/Satvik12221as?tab=repositories"><b>📦 Repositories</b></a>
 </p>
