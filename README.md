@@ -234,5 +234,5 @@ flowchart LR
 
 <p align="center">
   <b>PLAN → RETRIEVE → CODE → TEST → SHIP → REPEAT</b><br/>
-  <sub>Still building. Still learning. Still shipping.</sub>
+  <sub>Still building. Still learning. Still shipping</sub>
 </p>
